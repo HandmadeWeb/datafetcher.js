@@ -4,7 +4,18 @@ dataFetcher.js is a small library to swap the content of an element with the res
 
 ## Adding dataFetcher.js to your project
 
+### From cdn.jsdelivr.net
+- Add the script to your footer.
+```html
+<script src="https://cdn.jsdelivr.net/npm/datafetcher.js@1.0.0/dist/data-fetcher.min.js"></script>
+```
+
+### Precompiled js file
+- Clone or download the library.
+- Add `/dist/data-fetcher.min.js` to your project.
+
 ### Building from the source
+- Clone or download the library.
 - Run `npm install` & ( `npm run dev` or `npm run prod` )
 - Add `/dist/data-fetcher.min.js` to your project.
 

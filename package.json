@@ -1,5 +1,5 @@
 {
-    "name": "dataFetcher.js",
+    "name": "datafetcher.js",
     "description": "dataFetcher.js is a small library to swap the content of an element with the response from an ajax response.",
     "version": "1.0.0",
     "license": "MIT",
