@@ -1,6 +1,6 @@
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
 
-dataFetcher.js is a small library to swap the content of an element with the response from an ajax response.
+dataFetcher.js is a small library to swap the content of an element with the Html content from an ajax response.
 
 ## Adding dataFetcher.js to your project
 

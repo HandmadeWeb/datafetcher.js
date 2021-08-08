@@ -1,6 +1,6 @@
 {
     "name": "datafetcher.js",
-    "description": "dataFetcher.js is a small library to swap the content of an element with the response from an ajax response.",
+    "description": "dataFetcher.js is a small library to swap the content of an element with the Html content from an ajax response.",
     "version": "1.0.0",
     "license": "MIT",
     "repository": "handmadeweb/datafetcher.js",
