@@ -2,6 +2,9 @@
 
 All notable changes to `dataFetcher.js` will be documented in this file, dates are (dd/mm/yyyy)
 
+## 1.1.2 - 10/08/2021
+- Updated readme to use https://cdn.jsdelivr.net/gh/handmadeweb/datafetcher.js@1.0.0/dist/data-fetcher.min.js
+
 ## 1.1.1 - 10/08/2021
 - Add check for Html response
 

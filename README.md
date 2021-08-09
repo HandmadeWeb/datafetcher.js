@@ -7,7 +7,7 @@ dataFetcher.js is a small library to swap the content of an element with the Htm
 ### From cdn.jsdelivr.net
 - Add the script to your footer.
 ```html
-<script src="https://cdn.jsdelivr.net/npm/datafetcher.js@1.0.0/dist/data-fetcher.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/handmadeweb/datafetcher.js@1.1.2/dist/data-fetcher.min.js"></script>
 ```
 
 ### Precompiled js file
