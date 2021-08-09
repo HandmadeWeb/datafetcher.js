@@ -1,19 +1,19 @@
 {
-    "name": "datafetcher.js",
-    "description": "dataFetcher.js is a small library to swap the content of an element with the Html content from an ajax response.",
-    "version": "1.0.0",
-    "license": "MIT",
-    "repository": "handmadeweb/datafetcher.js",
-    "scripts": {
-        "dev": "mix",
-        "development": "mix",
-        "watch": "mix watch",
-        "watch-poll": "mix watch -- --watch-options-poll=1000",
-        "hot": "mix watch --hot",
-        "prod": "mix --production",
-        "production": "mix --production"
-    },
-    "devDependencies": {
-        "laravel-mix": "^6.0"
-    }
+  "name": "datafetcher.js",
+  "description": "dataFetcher.js is a small library to swap the content of an element with the Html content from an ajax response.",
+  "version": "1.1.0",
+  "license": "MIT",
+  "repository": "handmadeweb/datafetcher.js",
+  "scripts": {
+    "dev": "mix",
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "prod": "mix --production",
+    "production": "mix --production"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0"
+  }
 }
